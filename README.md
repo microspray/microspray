@@ -8,15 +8,15 @@ With my friend @smana, we created Kubespray in 2015 just after thee kubernetes r
 Kubernetes was still unknown, hard to install, we decided to help to promote it by building automation to easily deploy and maintain Kubernetes in production. 
 
 Beyond our expectations, Kubespray became one of the major Kubernetes deployment tool.
-With 700 individual contributors, it has became a large project and there are now,
-so many buttons&knobs that it could be overwhelming and complex for newcomers. 
+With 700 individual contributors, it has became a large project. 
+There are now so many buttons&knobs that it could be overwhelming and complex for newcomers. 
 
 Microspray is proposing a very opiniated production ready Kubernetes distribution. 
 No option, we're making the choices to make it works great ! 
 
 ## Baremetal first-class 
 
-All the main and most of the small Clouds have now a 'Managed' kubernetes service, in this space the problem is already solved. 
+All the clouds propose already a 'Managed' kubernetes service, there's is any difficulty there. 
 The problem remains for the non-cloud infrastructure aka Baremetal/dedicated/On-premise, Microspray is focusing exclusivly on those type of infrastructure.
 
 ## Main lesson of the last 5 years
